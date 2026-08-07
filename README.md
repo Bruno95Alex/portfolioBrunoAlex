@@ -7,7 +7,7 @@ Site pessoal em página única (one-page) para apresentar quem sou, minha trajet
 ## 📸 Preview
 
 **Home**
-![Home do site](docs/screenshots/home.png)
+[Home do site](docs/screenshots/home.png)
 
 **Sobre mim**
 ![Seção Sobre](docs/screenshots/sobre.png)
