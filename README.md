@@ -1,4 +1,4 @@
-# Maria Clara — Portfólio
+# Bruno Alex — Portfólio
 
 Site pessoal em página única (one-page) para apresentar quem sou, minha trajetória e os projetos que desenvolvi ao longo da formação em **Análise e Desenvolvimento de Sistemas**.
 
@@ -12,16 +12,16 @@ Site pessoal em página única (one-page) para apresentar quem sou, minha trajet
 **Sobre mim**
 ![Seção Sobre](docs/screenshots/sobre.png)
 
-## 👩‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou Maria Clara, formada em **Análise e Desenvolvimento de Sistemas** pelo **IFCE**. Gosto de transformar problemas reais em soluções digitais — da lógica no papel até o código em produção. Ao longo da formação, passei por projetos de sites, sistemas web e aplicativos, sempre buscando código limpo, boas práticas e um resultado que realmente funcione para quem usa.
+Sou Bruno Alex, cursando **Análise e Desenvolvimento de Sistemas** pelo **IFCE**. Gosto de transformar problemas reais em soluções digitais — da lógica no papel até o código em produção. Ao longo da formação, passei por projetos de sites, sistemas web e aplicativos, sempre buscando código limpo, boas práticas e um resultado que realmente funcione para quem usa.
 
 | | |
 |---|---|
 | **8+** | Projetos desenvolvidos |
 | **100%** | Comprometimento |
 | **10+** | Tecnologias |
-| **2026** | Formada — IFCE |
+| **2026** | Formatura — IFCE |
 
 **Áreas de atuação:** Desenvolvimento Web · Sistemas & Automação · Aplicativos · UI/UX & Front-end
 
@@ -51,7 +51,7 @@ Sou Maria Clara, formada em **Análise e Desenvolvimento de Sistemas** pelo **IF
 ## 📁 Estrutura do projeto
 
 ```
-maria-clara-portfolio/
+bruno-alex-portfolio/
 ├── assets/
 │   ├── audio/          # Trilha sonora de fundo
 │   ├── files/
@@ -79,7 +79,7 @@ maria-clara-portfolio/
 - Filtro de projetos por categoria (Todos / Sites / Sistemas / Jogos / Aplicativos)
 - Download do currículo em PDF direto pela Home
 - Modal com detalhes de cada projeto
-- Formulário de contato e atalhos diretos para WhatsApp e Instagram
+- Seção de contato final com ícones diretos para GitHub, e-mail, Instagram, WhatsApp e LinkedIn
 
 ## ➕ Como adicionar um novo projeto
 
@@ -107,10 +107,12 @@ npx serve .
 
 ## 📬 Contato
 
-- **E-mail:** mariaclara@email.com
-- **Instagram:** [@clarabdll](https://www.instagram.com/clarabdll/)
-- **WhatsApp:** [Chamar no WhatsApp](https://wa.me/5588994086279)
+- **E-mail:** brunomoreira787@gmail.com
+- **Instagram:** [@brunoalexw](https://www.instagram.com/brunoalexw)
+- **GitHub:** [Bruno95Alex](https://github.com/Bruno95Alex)
+- **WhatsApp:** [Chamar no WhatsApp](https://wa.me/5588993323004)
+- **LinkedIn:** _(em breve)_
 
 ---
 
-© 2026 Maria Clara — Análise e Desenvolvimento de Sistemas, IFCE.
+© 2026 Bruno Alex — Análise e Desenvolvimento de Sistemas, IFCE.
